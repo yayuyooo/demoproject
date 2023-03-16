@@ -6,3 +6,7 @@ youranswer is ....
 --Gook--
 is 4 
 Ice question is 8*8 =?
+
+--Ice--
+is 64
+Thanks you
